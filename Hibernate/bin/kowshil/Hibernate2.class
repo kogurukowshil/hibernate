@@ -1,0 +1,39 @@
+Êþº¾   4   kowshil/Hibernate2  java/lang/Object <init> ()V Code 	 java/lang/Error ®Unresolved compilation problems: 
+	The type java.lang.Throwable cannot be resolved. It is indirectly referenced from required .class files
+	Implicit super constructor Object() is undefined for default constructor. Must define an explicit constructor
+	String cannot be resolved to a type
+	System cannot be resolved
+	The constructor Address(String, String, String, String) is undefined
+	The constructor Address(String, String, String, String) is undefined
+	The constructor Student(String, Address) refers to the missing type String
+	The constructor Student(String, Address) refers to the missing type String
+	The method save(Object) from the type Session refers to the missing type Serializable
+	The method save(Object) from the type Session refers to the missing type Serializable
+	System cannot be resolved
+	Exception cannot be resolved to a type
+	System cannot be resolved
+	The type java.lang.AutoCloseable cannot be resolved. It is indirectly referenced from required .class files
+	The type java.io.Closeable cannot be resolved. It is indirectly referenced from required .class files
+	The type javax.naming.Referenceable cannot be resolved. It is indirectly referenced from required .class files
+
+     (Ljava/lang/String;)V LineNumberTable LocalVariableTable this Lsanju/Hibernate2; main ([Ljava/lang/String;)V ÖUnresolved compilation problems: 
+	String cannot be resolved to a type
+	System cannot be resolved
+	The constructor Address(String, String, String, String) is undefined
+	The constructor Address(String, String, String, String) is undefined
+	The constructor Student(String, Address) refers to the missing type String
+	The constructor Student(String, Address) refers to the missing type String
+	The method save(Object) from the type Session refers to the missing type Serializable
+	The method save(Object) from the type Session refers to the missing type Serializable
+	System cannot be resolved
+	Exception cannot be resolved to a type
+	System cannot be resolved
+	The type java.lang.AutoCloseable cannot be resolved. It is indirectly referenced from required .class files
+	The type java.io.Closeable cannot be resolved. It is indirectly referenced from required .class files
+	The type javax.naming.Referenceable cannot be resolved. It is indirectly referenced from required .class files
+ 
+SourceFile Hibernate2.java  java/lang/String MissingTypes !               4     
+» Y
+· ¿                   
+     	       *     
+» Y· ¿                             
